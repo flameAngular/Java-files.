@@ -32,7 +32,7 @@ class Betting {
 			}
 		}
 
-		System.out.println(amt);
+		System.out.println("Amount = "+amt);
 	}
 }
 
